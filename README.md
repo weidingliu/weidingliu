@@ -1,6 +1,7 @@
-<!--
-## Hi there 👋
 
+## Hi there 👋
+- 🌱 I’m currently learning CPU performance optimization, software-hardware co-design.
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weidingliu)
 -->
 <!--
